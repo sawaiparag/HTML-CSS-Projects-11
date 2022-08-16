@@ -1,0 +1,218 @@
+body{
+    background-color: #ffffff;
+}
+.header{
+    margin-left: 12px;
+    margin-top: 15px;
+}
+.new{
+    margin-top: -35px;
+    float: right;
+    margin-right: 20px;
+    cursor: pointer;
+
+}
+.nav-item{
+    font-weight: bold;
+    margin-left: 50px;
+    text-decoration: none;
+}
+.nav-item-active{
+    margin-right: 20px;
+    padding: 0.8em 1.2em;
+    background-color: #ffffff;
+    color: #487be9;
+    border-radius: 5px;
+    border-color: #064de7;
+    font-weight: bold;
+   margin-left: 60px;
+}
+.new{
+    justify-content: space-around;
+    
+}
+.header-text{
+  display: flex;
+  margin-top: 40px;
+  margin-left: 30px;
+}
+.header-text h1{
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.header-text button{
+    padding: 1.1em 1.9em;
+    border-radius: 10%;
+    color: white;
+    background-color: #025afc;
+    font-weight: bolder;
+    margin-top: 20px;
+    border-color: #025afc;
+}
+.Setting{
+    margin-left: 220px;
+}
+
+.Second-Part{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+
+.text h1{
+    font-size: 50px;
+    font-weight: bolder;
+}
+.text{
+    margin-left: 100px  ;
+    margin-top: 70px;
+}
+
+.text button{
+    padding: 1.1em 1.9em;
+    border-radius: 10%;
+    color: white;
+    background-color: #025afc;
+    font-weight: bolder;
+    margin-top: 20px;
+    border-color: #025afc;
+}
+
+.Three-Part{
+    display: flex;
+    margin-top: 50px;
+}
+
+.three-text h1{
+    font-size: 30px;
+    font-weight: bolder;
+}
+.three-text button{
+    padding: 1.1em 1.9em;
+    border-radius: 10%;
+    color: white;
+    background-color: #025afc;
+    font-weight: bolder;
+    margin-top: 20px;
+    border-color: #025afc;
+}
+
+.three-text{
+    margin-left: 110px;
+}
+
+.Three-Part img{
+    margin-left: 250px;
+    width: 80%;
+}
+
+.dw h1{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.cw{
+ margin-left: 700px;
+ margin-top: -70px;
+   
+}
+
+.Sub-one{
+
+    display: flex;
+    margin-top: 80px;
+    justify-content: space-evenly;
+        
+}
+
+
+.Sub-two{
+    display: flex;
+    margin-left: 30px;
+    margin-top: 30px;
+    justify-content: space-evenly;
+}
+
+.Cards h1{
+    color: #ffffff;
+    margin-top: 40px;
+    }
+
+.Main-Cards{
+    background-color: #0ab2ff;
+    text-align: center;
+    margin-top: 30px;
+    width: 100%;
+}    
+
+.Cards{
+    display: flex;
+    justify-content: center;
+
+    
+}
+
+.card{
+    background-color: #fff;
+   margin-left: 20px;
+   width: 20%;
+   border-radius: 8px;
+
+
+}
+
+span{
+    color: #0ab2ff;
+}
+
+.card-black{
+    height: 25%;
+    margin-top: -10px;
+    background-color: #000000;
+    color: white;
+    border-radius: 8px;
+
+}
+
+.card h1{
+    color: #000;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 80px;
+    
+}
+.card h3{
+    margin-top: -5px;
+}
+.card-mid{
+    text-align: left;
+    margin-top: 20px;
+}
+
+.card button{
+    margin-top: -50px;
+    padding: 1.1em 1.9em;
+    border-radius: 10%;
+    color: white;
+    background-color: #025afc;
+    font-weight: bolder;
+    margin-top: 20px;
+    border-color: #025afc;
+}
+
+
+
+
+
+.Footer{
+    display: flex;
+    margin-left: 30px   ;
+    margin-top: 30px;
+    justify-content: space-around;
+}
+
+.Footer h4{
+margin-left: 30px;
+}
